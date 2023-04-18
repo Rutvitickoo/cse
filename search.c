@@ -48,21 +48,5 @@ int main()
     {
         printf("\n%d is not found in the array\n", toSearch);
     }
-printf("ansh jamwal roll no 76 G5\n");
-    return 0;
+return 0;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
